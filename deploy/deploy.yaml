@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: vinaydocker542/python-app:7
+        image: vinaydocker542/python-app:8
         ports:
         - containerPort: 8000
