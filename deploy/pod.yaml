@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: todo-app
-    image: vinaydocker542/python-app:9
+    image: vinaydocker542/python-app:10
     ports:
     - containerPort: 8000
